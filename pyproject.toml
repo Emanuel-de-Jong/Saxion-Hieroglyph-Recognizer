@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "student-template"
+version = "0.1.0"
+description = "Introduction To Machine Learning final assignment template."
+authors = ["Evert Duipmans <e.f.duipmans@saxion.nl>"]
+readme = "README.md"
+packages = [{include = "student_template"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+flask = "^2.3.2"
+pandas = "^2.0.3"
+scikit-learn = "^1.3.0"
+scikit-image = "^0.21.0"
+flask-cors = "^4.0.0"
+numpy = "1.25.1"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+joblib = "^1.3.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
