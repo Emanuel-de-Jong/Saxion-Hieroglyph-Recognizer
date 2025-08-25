@@ -5,8 +5,8 @@ Trains AI models on hieroglyph images so they can recognize new images in the fu
 
 These are the same hieroglyphs used in the [Recommendation AI And Custom CNN](https://github.com/Emanuel-de-Jong/Saxion-Recommendation-AI-And-Custom-CNN)
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2024-10-02 - 2024-11-08<br>
+**Last Change:** 2024-11-08<br>
 
 | | |
 | :---: | :---: |
