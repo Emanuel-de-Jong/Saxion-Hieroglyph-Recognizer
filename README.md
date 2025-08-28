@@ -12,3 +12,4 @@ These are the same hieroglyphs used in the [Recommendation AI And Custom CNN](ht
 | :---: | :---: |
 | ![](/Screenshots/1-Webserver.gif) | ![](/Screenshots/2-SVC-Grid.png) |
 | ![](/Screenshots/3-SVC-Stats.png) | ![](/Screenshots/.png) |
+ 
