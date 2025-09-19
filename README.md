@@ -7,6 +7,7 @@ These are the same hieroglyphs used in the [Recommendation AI And Custom CNN](ht
 
 **Active Development:** 2024-10-02 - 2024-11-08<br>
 **Last Change:** 2024-11-08<br>
+**Highlights:** Machine Learning<br>
 
 | | |
 | :---: | :---: |
